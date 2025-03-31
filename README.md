@@ -33,3 +33,7 @@ Acesse a pasta do projeto:<br>
 cd JavaScript<br>
 
 Explore os arquivos e práticas correspondentes aos tópicos de aprendizado.
+
+<h2>📜 Licença</h2><br>
+
+Este repositório é de uso livre para fins educativos.
